@@ -8,7 +8,7 @@ Repositório criado para registrar minha evolução prática e desafios focados 
 
 | Projeto | Descrição | Conceitos Aplicados |
 | :--- | :--- | :--- |
-| [ 🐱 **Cat Gallery** ] (./cat-api)  | Galeria de imagens aleatórias consumindo a The Cat API | `fetch`, `async/await`, JSON parsing, `createElement`, CSS Grid |
+| [ 🐱 **Cat Gallery** ](./cat-api)  | Galeria de imagens aleatórias consumindo a The Cat API | `fetch`, `async/await`, JSON parsing, `createElement`, CSS Grid |
 | ⏳ **Próximos projetos** | Em breve... | Em breve... |
 
 ---
